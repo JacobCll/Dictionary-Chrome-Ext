@@ -1,0 +1,9 @@
+{
+    "name": "Dictionary Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Easily access the dictionary",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
